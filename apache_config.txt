@@ -1,0 +1,7 @@
+# mithra 
+<Directory "F:/projects/mithra/public">
+    Options Indexes FollowSymLinks MultiViews
+    AllowOverride All
+    Require all granted
+</Directory>
+Alias /mithra "F:/projects/mithra/public"
